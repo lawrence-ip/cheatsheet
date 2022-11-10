@@ -1,5 +1,6 @@
-# cheatsheet
+# Cheatsheet
 Cheatsheet for commonly used tools
+
 ## Table of Contents
 
 - [Package suites](#package-suites)
