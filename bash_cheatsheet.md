@@ -1,10 +1,5 @@
 # Bioinformatics one-liners
 
-[![DOI](https://zenodo.org/badge/3882/stephenturner/oneliners.svg)](https://zenodo.org/badge/latestdoi/3882/stephenturner/oneliners)
-
-Useful bash one-liners useful for bioinformatics (and [some, more generally useful](#etc)).  
-
-
 ## Contents
 
 - [Sources](#sources)
@@ -16,22 +11,6 @@ Useful bash one-liners useful for bioinformatics (and [some, more generally usef
 - [GFF3 Annotations](#gff3-annotations)
 - [Other generally useful aliases for your .bashrc](#other-generally-useful-aliases-for-your-bashrc)
 - [Etc.](#etc)
-
-
-
-## Sources
-
-* <http://gettinggeneticsdone.blogspot.com/2013/10/useful-linux-oneliners-for-bioinformatics.html#comments>
-* <http://sed.sourceforge.net/sed1line.txt>
-* <https://github.com/lh3/seqtk>
-* <http://lh3lh3.users.sourceforge.net/biounix.shtml>
-* <http://genomespot.blogspot.com/2013/08/a-selection-of-useful-bash-one-liners.html>
-* <http://biowize.wordpress.com/2012/06/15/command-line-magic-for-your-gene-annotations/>
-* <http://genomics-array.blogspot.com/2010/11/some-unixperl-oneliners-for.html>
-* <http://bioexpressblog.wordpress.com/2013/04/05/split-multi-fasta-sequence-file/>
-* <http://www.commandlinefu.com/>
-
-
 
 ## Basic awk & sed
 
